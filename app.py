@@ -1,4 +1,5 @@
 # 以下を「app.py」に書き込み
+import langchain
 import streamlit as st
 import openai
 # Streamlit Community Cloudの「Secrets」からOpenAI API keyを取得
